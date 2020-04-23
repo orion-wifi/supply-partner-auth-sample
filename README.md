@@ -47,3 +47,7 @@ Token generated:
 <token_redacted_for_readme>
 === END TOKEN ===
 ```
+
+---
+
+<sub><sup>This is not an officially supported Google product</sup></sub>
